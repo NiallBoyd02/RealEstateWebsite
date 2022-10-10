@@ -1,0 +1,16 @@
+/* text colour of h1 headings set to DarkCyan using the colour name */
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: DarkCyan;
+    opacity: 0.5;
+}
+/* text colour of h1 headings set to a pink shade using a hex code */
+h2 {
+    color:#ffffff;
+    background-color: #ee3e80;
+}
+/* text colour of paragraphs set to a shade of blue using a rgb value */
+p {
+    color: rgb(255,255,255);
+    background-color: rgb(30,144,255);
+}

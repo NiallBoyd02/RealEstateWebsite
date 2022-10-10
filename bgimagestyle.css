@@ -1,0 +1,10 @@
+body {
+    background-image: url("images/tulip.gif");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+p {
+    background-image: url("images/grey_pattern.png");
+    color: #ffffff;
+    padding: 20px;
+}
